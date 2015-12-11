@@ -1,0 +1,13 @@
+.header {
+    background-color: brown;
+    height: 55px;
+}
+
+.side {
+    background-color: darkseagreen;
+    height: 500px;
+}
+
+.full-width {
+    width:100%;
+}
